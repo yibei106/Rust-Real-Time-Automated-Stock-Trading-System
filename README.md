@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9301b3d5-529c-49f5-940d-02ed52f42198)# Rust-Real-Time-Automated-Stock-Trading-System
+## Rust-Real-Time-Automated-Stock-Trading-System
 
 ## Project Overview
 This project simulates a stock market system where brokers interact with clients and the stock market to facilitate buy and sell orders. It showcases how concurrent programming techniques, message-passing mechanisms, and real-time decision-making can be modeled in a dynamic stock trading environment.
@@ -6,7 +6,7 @@ This project simulates a stock market system where brokers interact with clients
 The primary focus of the project is to simulate real-time stock adjustments based on orders received from clients through brokers. The system leverages multithreading, message exchanges, and synchronization mechanisms to ensure data consistency and safe concurrent operations.
 
 ## Concept Diagram
-![Stock Market Concept](./images/concept_diagram.png)
+![image](https://github.com/user-attachments/assets/9301b3d5-529c-49f5-940d-02ed52f42198)
 
 ## Features
 - **Stock Market Simulation**: Brokers receive stock information and relay it to clients. Clients place buy or sell orders, and brokers evaluate these orders based on market conditions.
